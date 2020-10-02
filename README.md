@@ -1,5 +1,5 @@
 # _badtweet
-é um bot para o twitter escrito python usando a API do twitter, usado para automatizar o processo de irritar pessoas no twitter.
+é um bot para o twitter escrito em python usando a API do twitter, usado para automatizar o processo de irritar pessoas no twitter.
 
 ## Para que serve este bot?
 
