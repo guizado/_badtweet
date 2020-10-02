@@ -7,4 +7,5 @@
 ###### Qual é o uso disto?
 Nenhum, apenas uma ferramenta para fazer satirizar tweets, terminar discussões, e incitar galhofa e caos.
 
-[Mais exemplos,](https://github.com/guizado/_badtweet/blob/master/exemplos/image.png?raw=true) [ainda mais,] (https://github.com/guizado/_badtweet/blob/master/exemplos/exemplo2.png?raw=true) [só mais um.] (https://github.com/guizado/_badtweet/blob/master/exemplos/exemplo23.png?raw=true)
+###### Mais exemplos:
+[1](https://github.com/guizado/_badtweet/blob/master/exemplos/image.png?raw=true), [2] (https://github.com/guizado/_badtweet/blob/master/exemplos/exemplo2.png?raw=true) ,[3] (https://github.com/guizado/_badtweet/blob/master/exemplos/exemplo23.png?raw=true)
