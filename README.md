@@ -1,2 +1,2 @@
-# badtweet-TwitterBot
+# _badtweet
 A fun bot using Twitter's API
