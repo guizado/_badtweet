@@ -31,7 +31,7 @@ Tendo a nossa imagem pronta, utilizo novamente o tweepy para responder a quem di
 Este bot começou simplesmente comigo a querer fazer algo engraçado com a API do twitter, originalmente não havia o objetivo de "gozar" com as outras pessoas, mas quando estava a pesquisar *memes*, reparei que todos apontavam para essa direção, aí a lâmpada acendeu. 
 ###### De onde veio o sucesso?
 Do momento em que ficou online, tornou-se óbvio que era um sucesso entre os utilizadores do twitter. No começo era utilizado quando alguém discordava com um tweet, mas ao longo do tempo e com o crescimento da sua fanbase, o bot era utilizado mesmo quando não fazia sentido nenhum. 
-Por alguma razão, bots deste género no twitter são escassos *(apesar do quoão fácil são de programar)*, e isso faz com que toda a gente queira experimentá-lo e eventualmente abusá-lo ao aperceber-se que o bot funcionava 24/7.
+Por alguma razão, bots deste género no twitter são escassos *(apesar do quoão fáceis são de programar)*, e isso faz com que toda a gente queira experimentá-lo e eventualmente abusá-lo ao aperceber-se que o bot funcionava 24/7.
 ###### O que há a aprender aqui?
 Ideias complexas fáceis de perceber. Em papel é dificil mas na prática? Quem é que não gosta de ser irritante na internet com o mínimo do esforço? A aleatoriedade dos *memes* incentivava a descoberta, e o próprio uso do bot fazia com que quem fosse a vítima, sentia-se compelido a usar contra alguém.
 Acho que houve um culminar de pequenas estratégias acidentais que alguém que procure presença online para a sua aplicação possa anotar.
