@@ -8,6 +8,6 @@
 Nenhum, apenas uma ferramenta para fazer satirizar tweets, terminar discussões, e incitar galhofa e caos.
 
 ###### Mais exemplos:
-[1](https://github.com/guizado/_badtweet/blob/master/exemplos/image.png?raw=true)
+[1] (https://github.com/guizado/_badtweet/blob/master/exemplos/image.png?raw=true)
 [2] (https://github.com/guizado/_badtweet/blob/master/exemplos/exemplo2.png?raw=true)
 [3] (https://github.com/guizado/_badtweet/blob/master/exemplos/exemplo23.png?raw=true)
