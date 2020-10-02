@@ -27,6 +27,11 @@ Prosseguimos escolhendo um *meme* aleatório da nossa diretoria. Em cada imagem 
 Tendo a nossa imagem pronta, utilizo novamente o tweepy para responder a quem disse "_badtweet" com a montagem.
 
 ## Uma "expriência social"
-Este bot começou simplesmente comigo a querer fazer algo engraçado com a API do twitter. Do momento em que ficou online, tornou-se óbvio que era um sucesso entre os utilizadores do twitter. No começo era utilizado quando alguém encontrava um tweet que discordava profundamente, mas ao longo do tempo e com o crescimento da sua fanbase, o bot era utilizado mesmo quando não fazia sentido nenhum. Por alguma razão, bots deste género no twitter são escassos *(apesar do quoão fácil são de fazer)*, e isso faz com que toda a gente queira experimentá-lo e eventualmente abusá-lo ao aperceber-se que o bot funcionava 24/7.
-A partir do momento em que em apenas um dia tinha centenas de chamadas, foi sempre uma pressão constante: estar atento ao funcionamento do servidor, ver se os limites da API não estavam a ser ultrapassados ,lançar mais updates ao bot, etc... Isto também contribuiu em parte para o término do _badtweet.
-Se há algo a retirar aqui, é que se há uma atividade preferida na internet, é tirar o sério às pessoas.
+####### De onde surgiu a ideia?
+Este bot começou simplesmente comigo a querer fazer algo engraçado com a API do twitter, originalmente não havia o objetivo de "gozar" com as outras pessoas, mas quando estava a pesquisar *memes*, reparei que todos apontavam para essa direção, aí a lâmpada acendeu. 
+####### De onde veio o sucesso?
+Do momento em que ficou online, tornou-se óbvio que era um sucesso entre os utilizadores do twitter. No começo era utilizado quando alguém encontrava um tweet que discordava profundamente, mas ao longo do tempo e com o crescimento da sua fanbase, o bot era utilizado mesmo quando não fazia sentido nenhum. 
+Por alguma razão, bots deste género no twitter são escassos *(apesar do quoão fácil são de programar)*, e isso faz com que toda a gente queira experimentá-lo e eventualmente abusá-lo ao aperceber-se que o bot funcionava 24/7.
+####### O que há a aprender aqui?
+Ideias complexas fáceis de perceber. Em papel é dificil mas na prática? Quem é que não gosta de ser irritante na internet com o mínimo do esforço? A aleatoriedade dos *memes* incentivava a descoberta, e o próprio uso do bot fazia com que quem fosse a vítima, sentia-se compelido a usar contra alguém.
+Acho que houve um culminar de pequenas estratégias acidentais que alguém que procure presença online para a sua aplicação possa anotar.
