@@ -3,5 +3,5 @@ _badtweet é um bot de twitter em python usando o API do twitter.
 
 Para que serve este bot?
 
-[IMAGEM]
+[My image](username.github.com/repository/img/image.jpg)
 
