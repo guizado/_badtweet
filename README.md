@@ -1,2 +1,7 @@
 # _badtweet
-A fun bot using Twitter's API
+_badtweet é um bot de twitter em python usando o API do twitter.
+
+Para que serve este bot?
+
+[IMAGEM]
+
