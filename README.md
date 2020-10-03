@@ -26,7 +26,7 @@ Prosseguimos escolhendo um *meme* aleatório da nossa diretoria. Em cada imagem 
 
 Tendo a nossa imagem pronta, utilizo novamente o tweepy para responder a quem disse "_badtweet" com a montagem.
 
-## Uma "expriência social"
+## Uma "experiência social"
 ###### De onde surgiu a ideia?
 Este bot começou simplesmente comigo a querer fazer algo engraçado com a API do twitter, originalmente não havia o objetivo de "gozar" com as outras pessoas, mas quando estava a pesquisar *memes*, reparei que todos apontavam para essa direção, aí a lâmpada acendeu. 
 ###### De onde veio o sucesso?
